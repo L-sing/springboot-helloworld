@@ -17,6 +17,8 @@ public class Application {
     }
 
     public static void main(String[] args) {
+        System.out.println("sdfasdfasdfas");
+        System.out.println("hahhahha");
         System.out.println("hahhahha");
         SpringApplication.run(Application.class, args);
         System.out.println("hahhahha");
